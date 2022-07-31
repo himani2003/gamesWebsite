@@ -1,4 +1,5 @@
 # GAMING WEBSITE USING PYTHON
+In the Python ecosystem, we can find a rich set of tools, libraries, and frameworks that will help to create games quickly. We chose Python for this project because it’s a simple language to start out with, and is fun and easy to learn.
 
 ## TECHSTACK USED
 <li>Python</li>
