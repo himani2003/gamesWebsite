@@ -21,3 +21,9 @@ and many other...
 We Are Here To Provide You With All Same Old And Gold Games. No Need To Go And Search For Games Like Dot And Box, Pacman, Egg Shell Catcher And Many More....
 
 ![image](https://user-images.githubusercontent.com/96013772/182018502-365dc06c-8814-4895-87d8-1caf5d969006.png)
+
+
+First you have to Sign Up and create your Name, email, Password by clicking on Sign In button on Home page.
+![image](https://user-images.githubusercontent.com/96013772/182027668-c587982b-7b2e-48b4-a2ea-8fe50d79b1bc.png)
+
+Then log In to your account by clicking on Sign In.
