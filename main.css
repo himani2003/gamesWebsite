@@ -1,0 +1,181 @@
+body{
+    margin: 0;
+   overflow: hidden;
+}
+*{
+    box-sizing: border-box;
+}
+.main-container{
+    /* background-image:url('https://mppmduse2pmpovwapp.azurewebsites.net/wp-content/uploads/2019/09/netflix-background-9.jpg') ; */
+    height: 100vh;
+    width:100vw;
+    
+}
+.netfix-image{
+    position: fixed;
+    top:5vh;
+    left: 5vw;
+}
+
+.title-bar{
+    height : 15vh;
+    width: 100vw;
+    position: relative;
+}
+
+.sign-button{
+    height: 40%;
+    width:8%;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    position: absolute;
+    top:20%;
+    right: 2%;
+    font-size: large;
+    font-weight: bolder;
+}
+
+.sign-button:hover,.submit-button:hover,.close:hover{
+    cursor: pointer;
+    transform: scale(1.2);
+}
+
+.container{
+    height : 85vh;
+    width: 100vw;
+}
+
+.content-1{
+    margin-top: 30vh;
+    height: 5vh;
+    font-size: xxx-large;
+}
+
+.content-2{
+    height: 8vh;
+    font-size: xx-large;
+}
+
+.content-3{
+    height: 8vh;
+    font-size: x-large;
+}
+
+.content-1,.content-2,.content-3{
+    width: 100vw;
+    color: white;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.submit-button{
+    height: 90%;
+    font-size: xx-large;
+    background-color: red;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+
+}
+
+ .signin-container{
+    
+    position: fixed;
+    height :70vh;
+    width:26vw;
+    top:15vh;
+    left:37vw;
+    background-color: rgba(0,0,0,.75);
+} 
+
+.signin-tilte{
+    margin-top: 5vh;
+    height: 10vh;
+    width: 100%;
+    color: white;
+    font-size: xx-large;
+    font-weight: 600;
+    padding-left: 15%;
+}
+.email,.name{
+    height: 6vh;
+    width: 70%;
+    margin-left: 15%;
+    background-color:lightgray;
+    font-size: x-large;
+    padding-top: 1vh;
+    padding-left: 1vw;
+}
+
+.password{
+    height: 6vh;
+    width: 70%;
+    margin-left: 15%;
+    
+    background-color:lightgray;
+    font-size: x-large;
+    padding-top: 0.5vh;
+    padding-left: 1vw;
+}
+
+.signin-button,.signup-button{
+    height: 6vh;
+     margin-top: 5vh;
+    width: 70%;
+    margin-left: 15%;
+    background-color: red;
+    color: white;
+    font-size: x-large;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.signin-button:hover,.signup:hover,.signup-button:hover{
+    cursor: pointer;
+}
+.close{
+    /* height: 5vh;
+    width: 2vw; */
+    position: fixed;
+    top: 5vh;
+    left: 5vw;
+    /* background-color: beige; */
+    color: white;
+}
+.e,.p,.n{
+    color: white;
+    margin-left: 15%; 
+    margin-bottom: 2vh;
+    font-size: larger;
+}
+
+.p{
+    margin-top:3vh 
+}
+
+.name{
+    margin-bottom: 3vh;
+}
+
+.signup{
+    height: 4vh;
+    width: 40%;
+    margin-top: 3vh;
+    margin-left: 50%;
+    background-color: rgba(22, 25, 231, 0.664);
+    color: white;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
